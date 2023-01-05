@@ -1,0 +1,20 @@
+# IDE
+.vscode
+
+# Python
+__pycache__
+venv
+.idea
+
+# starknet 
+node.json
+*.deployments.txt
+artifacts
+
+# nile
+127.0.0.1.*
+
+# Protostar
+build
+tests/cairo_programs/programs_hash.json
+tests/profiling
